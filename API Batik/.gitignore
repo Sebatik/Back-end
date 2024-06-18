@@ -1,0 +1,8 @@
+node_modules
+.env
+
+# Mengabaikan file service account
+src/service-account/sebatik-bangkit-firebase-adminsdk-734iz-59c40dd1a7.json
+
+# Mengabaikan file verifyToken.js jika ada informasi sensitif
+src/middleware/verifyToken.js
