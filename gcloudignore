@@ -1,0 +1,17 @@
+# This file specifies files and directories that should be ignored when using gcloud commands.
+# For more information, run:
+#   $ gcloud topic gcloudignore
+#
+# By default, the following files are excluded.
+.gcloudignore
+.git
+.gitignore
+.DS_Store
+__pycache__/
+node_modules/
+venv/
+
+# Tambahkan file-file yang ingin Anda kecualikan
+collab.py
+works1.py
+test.py
