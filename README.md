@@ -1,6 +1,20 @@
 # Sebatik Cloud Computing
 ![291132714-ed84e5bf-4c56-45cc-ba91-e99c6d8e4aab](https://github.com/Sebatik/Backend/assets/139910446/d2081f8b-56e5-4b31-ac7c-6377b6fd8f8a)
 
+# Overview
+```
+We are developing two APIs, each using a different framework. The APIs we are building include:
+
+1. An API for predicting images using a machine learning model with the Flask framework and Python programming language.
+2. An API to get all batik data from the database, using the Node.js framework and JavaScript programming language.
+
+The deployment of these two APIs differs for several reasons. 
+
+Firstly, we deploy the ML API on Cloud Run because App Engine does not support TensorFlow 2.15.0, which is a requirement for our API to function since the model was created using TensorFlow 2.15.0.
+
+Secondly, for the API to get all batik data, we decided to use App Engine standard environment. This decision was made because the creation of this API is relatively simple.
+```
+
 # Technology Used
 ## Cloud Run
 <img src="https://github.com/Sebatik/Back-end/assets/139910446/29aa9e61-808d-4e69-a895-26c8084324cb" width="100px">
