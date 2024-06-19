@@ -29,9 +29,11 @@ Secondly, for the API to get all batik data, we decided to use App Engine standa
 <img src="https://github.com/Sebatik/Back-end/assets/139910446/ffce3e5b-c850-4f59-bfed-a34f19d18ad5" width="100px">
 
 ``` 
-  Location : asia-southeast2 (Jakarta) 
-  Memory : 2 GiB 
-  vCPUs : 2 
+  Database type: mysql
+  Version : 8.0 
+  Memory : 8 GB 
+  Storage : 100 GB 
+  vCPUs : 2
 ```
 
 ## Cloud Artifact Registry
