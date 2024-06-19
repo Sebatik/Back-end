@@ -55,6 +55,13 @@ Secondly, for the API to get all batik data, we decided to use App Engine standa
   Location : US
   Storage Class : Standard
 ```
+## Python Language
+<img src="https://github.com/Sebatik/Back-end/assets/139910446/e8ce1600-4694-48f9-ad11-ffcdfcd63a04" width="100px">
+
+
+## Node JS Language
+<img src="https://github.com/Sebatik/Back-end/assets/139910446/a2560a8d-33af-470a-9e65-f7cfd41a2195" width="100px">
+
 
 # Instalation
 ### 1. Clone the repositories : 
