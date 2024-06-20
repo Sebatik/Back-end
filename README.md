@@ -35,6 +35,12 @@ Secondly, for the API to get all batik data, we decided to use App Engine standa
   Storage : 100 GB 
   vCPUs : 2
 ```
+## Cloud APP Engine
+<img src="https://github.com/Sebatik/Back-end/assets/139910446/0d267549-be78-471a-8e32-8099fe56950a" width="150px">
+
+``` 
+  
+```
 
 ## Cloud Artifact Registry
 <img src="https://github.com/Sebatik/Back-end/assets/139910446/a4c5f82c-da4b-4144-8028-ff3a0ca90b67" width="100px">
