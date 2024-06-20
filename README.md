@@ -53,6 +53,12 @@ Secondly, for the API to get all batik data, we decided to use App Engine standa
 ``` 
   Storage : 10 GB...
 ```
+## Cloud Build API
+<img src="https://github.com/Sebatik/Back-end/assets/139910446/728995cc-9e66-4bf6-b7ab-b28b6421df8d" width="100px">
+
+``` 
+ Public API
+```
 
 ## Cloud Storage
 <img src="https://github.com/Sebatik/Back-end/assets/139910446/c0e17ab2-3069-4d72-beb8-8f10f9d8fce8" width="100px">
